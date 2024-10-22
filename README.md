@@ -35,4 +35,4 @@ Insights Generated:
 7. Churn by Region: Regional analysis shows that Jammu & Kashmir has the highest churn rate at 57.2%, followed by states like Assam and Jharkhand, indicating potential regional service issues or competitive pressures​.
 
 . These insights suggest targeted interventions are necessary to reduce churn among younger customers, improve long-term contract adoption, and focus on regions and payment methods with higher churn risks.
-                                       ..............................................................................................
+
