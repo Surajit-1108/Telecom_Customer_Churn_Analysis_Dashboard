@@ -20,6 +20,11 @@ Steps:
    . Analyzed customer churn by gender, age group, tenure, and service features to discover key drivers of churn.
    . Identified high-risk churn segments, such as customers with month-to-month contracts or specific states with higher churn rates.
 
+Tools Used:
+1. MySQL: For initial data cleaning, handling missing values, and creating views for model training.
+2. Python (Jupyter Notebook): Used for machine learning model implementation, primarily Random Forest, for churn prediction.
+3. Power BI: For data visualization and creating an interactive dashboard for presenting insights and key findings.
+
 Insights Generated:
 1. Overall Churn Rate: The churn rate was identified at 27%, with 1,732 customers having churned out of 6,418 total customers​.
 2. Gender and Churn: The churn is significantly higher among female customers (65.45%) compared to male customers (34.54%)​.
@@ -30,9 +35,4 @@ Insights Generated:
 7. Churn by Region: Regional analysis shows that Jammu & Kashmir has the highest churn rate at 57.2%, followed by states like Assam and Jharkhand, indicating potential regional service issues or competitive pressures​.
 
 . These insights suggest targeted interventions are necessary to reduce churn among younger customers, improve long-term contract adoption, and focus on regions and payment methods with higher churn risks.
-
-Tools Used:
-1. MySQL: For initial data cleaning, handling missing values, and creating views for model training.
-2. Python (Jupyter Notebook): Used for machine learning model implementation, primarily Random Forest, for churn prediction.
-3. Power BI: For data visualization and creating an interactive dashboard for presenting insights and key findings.
                                        ..............................................................................................
